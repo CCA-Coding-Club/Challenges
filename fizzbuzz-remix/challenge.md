@@ -1,3 +1,9 @@
+---
+title: FizzBuzz Remix
+date: 2026-04-17
+description: Put a creative twist on the classic FizzBuzz problem
+---
+
 # FizzBuzz Remix
 
 Write a program that prints the numbers from 1 to 100, but with a twist:
@@ -38,13 +44,3 @@ FizzBuzz
 ## Any Language!
 
 You can use **any programming language** you want — Python, JavaScript, C++, Java, etc.
-
-## Submit
-
-Submit your solution using the `/submit` command on Discord:
-
-```
-/submit fizzbuzz-remix
-```
-
-Then paste your code in the popup!

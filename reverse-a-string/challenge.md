@@ -1,3 +1,8 @@
+---
+title: Reverse a String
+date: 2026-04-17
+description: Write a function that takes a string as input and returns it reversed.
+---
 # Reverse a String
 
 Write a function that takes a string as input and returns it reversed.
