@@ -47,10 +47,6 @@ s.print_stack()  // [1, 2]
 
 > 💡 Inside your class, store the stack as a private list or array. Each method should then call the same push and pop logic from Part 1 on that internal list.
 
-## Any Language!
-
-You can use **any programming language** you want — Python, JavaScript, C++, Java, etc.
-
 ## Concepts Practiced
 
 - Lists and arrays

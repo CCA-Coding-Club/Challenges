@@ -12,16 +12,9 @@ Write a program that prints the numbers from 1 to 100, but with a twist:
 - For multiples of **5**, print `"Buzz"`
 - For multiples of both **3 and 5**, print `"FizzBuzz"`
 
-## The Twist
+## Part 1: Classic FizzBuzz ⭐ Easy
 
-Don't just print the basics — make it **creative**! Here are some ideas:
-
-- 🎨 Use emojis instead of words
-- 🧩 Add your own custom rules (e.g. multiples of 7 print `"Bazz"`)
-- 📦 Return an array instead of printing
-- 🌀 Make it recursive
-
-## Example Output
+Get the basics working first — loop from 1 to 100 and print the correct output for each number.
 
 ```
 1
@@ -41,6 +34,20 @@ Fizz
 FizzBuzz
 ```
 
-## Any Language!
+> 💡 Think about the order of your conditions. Check for divisibility by both 3 and 5 before checking them individually, otherwise you may never reach that case.
 
-You can use **any programming language** you want — Python, JavaScript, C++, Java, etc.
+## Part 2: Put your own spin on it ⭐ Medium
+
+Once Part 1 is working, make it **creative**! Here are some ideas:
+
+- 🎨 Use emojis instead of words
+- 🧩 Add your own custom rules (e.g. multiples of 7 print `"Bazz"`)
+- 📦 Return an array instead of printing
+- 🌀 Make it recursive
+
+## Concepts Practiced
+
+- Loops
+- Conditionals
+- Modulo operator
+- Functions
