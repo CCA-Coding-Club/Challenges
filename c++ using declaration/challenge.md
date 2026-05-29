@@ -1,7 +1,7 @@
 ---
 title: Using_Declation
 date: 2026-05-29
-description: see title or god help you if you can't figure it out.
+description: See title or god help you if you can't figure it out
 ---
 # Using Declaration
 
