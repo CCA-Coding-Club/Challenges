@@ -20,7 +20,7 @@ Implement the "using" declaration to streamline various class instances.
 
   when working with monolithic code.
 
-> 💡 Luckily c++ is nice about "using" declarations. All you must do is declare using before instantiation a given class. This is known as a namespace, and I highly recommend using them consistently.
+> 💡 Luckily c++ is nice about "using" declarations. All you must do is declare using before instantiation of a given class. This is known as a namespace, and I highly recommend using them consistently.
 
 ## Part 2: ⭐ Medium
 
