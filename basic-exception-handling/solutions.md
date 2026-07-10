@@ -19,6 +19,8 @@ except:
 Part 2: In try, prompt the user for their birth year and typecast the input as an integer. This should throw an error if the age is anything but a number. 
 
 Also, add a condition so if the birth year is less than 0, it will raise a value error.
+
+All built-in Python exceptions can be found here: https://docs.python.org/3/library/exceptions.html#bltin-exceptions
 ```python
 try:
     birth_year = int(input("Enter your birth year: "))
