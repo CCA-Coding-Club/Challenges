@@ -14,10 +14,7 @@ Node C. Finally, Node C points to node A. Here we've created a triangle in which
 in node space it is irrelevent and either connection distance would be functionally the same. Now, what are some applications such a space containing nodes and connections?
 One could be the internet, another could be a book that references another book. Here I want you to make a node that can be referenced by a list.
 
-
-- For multiples of **3**, print `"Fizz"`
-- For multiples of **5**, print `"Buzz"`
-- For multiples of both **3 and 5**, print `"FizzBuzz"`
+- A node is a simple mental construct with as many values as you wish to assign it. It can be made real, or left entirely theoretical.
 
 ## Part 1: Linear node ⭐ Easy
 
@@ -30,18 +27,18 @@ for example
 
 > 💡 I recommend making a class and defining some functions that save a value or node's position to separate constructed values.
 
-## Part 2: Put your own spin on it ⭐ Medium
+## Part 2: 2-D node ⭐ Medium
 
-Once Part 1 is working, make it **creative**! Here are some ideas:
+Make a node that can reference and be referenced in 2-D space. This means that the node should be able to hold an arbitrary number of connections to other nodes.
 
-- 
-- 
+- Make that node more betterer!
+- Get **Creative** wit it.
 - 
 - 
 
 ## Concepts Practiced
 
-- 
-- 
-- 
-- 
+- Classes
+- Object oriented programming
+- Node logic
+- Node space understanding

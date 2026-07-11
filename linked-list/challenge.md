@@ -4,9 +4,11 @@ date: 2026-07-10
 description: Use that node you made earlier to make a linked list. 
 ---
 
+### Not completed. Finish later.
+
 # I will make the node_code challenge before I finish this challenge
 
-Write a program that prints the numbers from 1 to 100, but with a twist:
+Using the same node space from before make a list that can store nodes in an instantiation.
 
 - For multiples of **3**, print `"Fizz"`
 - For multiples of **5**, print `"Buzz"`
@@ -14,25 +16,8 @@ Write a program that prints the numbers from 1 to 100, but with a twist:
 
 ## Part 1: Classic FizzBuzz ⭐ Easy
 
-Get the basics working first — loop from 1 to 100 and print the correct output for each number.
+Now it's time to put that node you made earlier to good use.
 
-```
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
-```
 
 > 💡 Think about the order of your conditions. Check for divisibility by both 3 and 5 before checking them individually, otherwise you may never reach that case.
 
