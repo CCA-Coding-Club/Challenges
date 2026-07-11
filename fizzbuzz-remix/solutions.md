@@ -43,3 +43,20 @@ public class FizzBuzz {
     }
 }
 ```
+
+--Bash
+Implement '#!/bin/bash' for most linux operating. The #! symbol is called the shebang sign.
+
+'''bash
+while [ i < 100]
+$i=0
+//ignore this solution for now
+do
+    if [ (i % 3 == 0) ]
+
+    then
+        x
+        x
+    fi
+done
+'''
